@@ -3,8 +3,6 @@
 ## Project Overview
 Welcome to the **London Bike Rides Analysis** project repository! This project analyzes bike ride data in London, leveraging data visualization to uncover trends and insights. It was developed as a guided project following a YouTube tutorial by **Mo Chen**. The analysis was conducted using Tableau, with data preprocessing done in Python.
 
-This README provides an overview of the project, its purpose, data sources, and instructions on accessing and exploring the Tableau visualizations.
-
 ## Purpose
 The primary goal of this project is to analyze bike ride data in London to uncover insights such as:
 - **Moving average of bike rides**
@@ -16,7 +14,7 @@ The primary goal of this project is to analyze bike ride data in London to uncov
 Through interactive Tableau visualizations, the findings are presented in an engaging and intuitive way to make them accessible to a broader audience.
 
 ## Data Sources
-The dataset used in this analysis is sourced from **Kaggle** and includes comprehensive details about bike rides in London, such as:
+The dataset used in this analysis is sourced from **[Here](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset)** and includes comprehensive details about bike rides in London, such as:
 - Ride durations
 - Start and end locations
 - Ride dates
